@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/css/main.220bab16.css",
+    "main.js": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/js/main.e3108d4f.js",
+    "static/js/453.406672ca.chunk.js": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/js/453.406672ca.chunk.js",
+    "index.html": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/index.html",
+    "main.220bab16.css.map": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/css/main.220bab16.css.map",
+    "main.e3108d4f.js.map": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/js/main.e3108d4f.js.map",
+    "453.406672ca.chunk.js.map": "/Vaish-navi-11/StudentEduTrackSystem-Using-ReactJs.git/static/js/453.406672ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.220bab16.css",
+    "static/js/main.e3108d4f.js"
+  ]
+}
